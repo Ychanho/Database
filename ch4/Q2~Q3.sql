@@ -1,4 +1,4 @@
---ÁÖ¼® Ã³¸®´Â Ctrl+B, ÁÖ¼®Ã³¸® ÇØÁ¦´Â Ctrl+Shift+B
+--ì£¼ì„ ì²˜ë¦¬ëŠ” Ctrl+B, ì£¼ì„ì²˜ë¦¬ í•´ì œëŠ” Ctrl+Shift+B
 --Q2
 --SELECT DISTINCT JOB
 --  FROM EMP;
